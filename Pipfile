@@ -1,0 +1,27 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+nltk = "*"
+pyfunctional = "*"
+polyglot = "*"
+numpy = "*"
+pyicu = "*"
+pycld2 = "*"
+morfessor = "*"
+pylint = "*"
+bs4 = "*"
+ebooklib = "*"
+fn = "*"
+spacy = "*"
+homoglyphs = "*"
+tqdm = "*"
+pycontractions = "*"
+package_name = { git = 'git+https://github.com/myint/language-check', editable = 'true' }
+
+[requires]
+python_version = "3.7"

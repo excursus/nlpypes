@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>Herman Melville</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>C516F3E3CF4612258C8935C25A3338A0</string>
+		<key>cover-image-path</key>
+		<string>OEBPS/Images/MSRCover.jpg</string>
+		<key>mime-type</key>
+		<string>application/epub+zip</string>
+		<key>package-file-hash</key>
+		<string>A66C492A86863CE055E9B2EF95600EFC</string>
+		<key>publisher-unique-id</key>
+		<string>1-4362-3327-5</string>
+		<key>unique-id</key>
+		<integer>1274474159779616222</integer>
+		<key>update-level</key>
+		<integer>2</integer>
+	</dict>
+	<key>itemName</key>
+	<string>Moby Dick</string>
+	<key>playlistName</key>
+	<string>Moby Dick</string>
+	<key>releaseDate</key>
+	<string>2009</string>
+</dict>
+</plist>

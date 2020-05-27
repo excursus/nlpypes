@@ -1,0 +1,180 @@
+<?xml version="1.0"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" 
+   "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="c98702cc-1def-4789-9366-18d8bdf83710"/>
+    <meta name="dtb:depth" content="1"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Moby-Dick or, the Whale</text>
+  </docTitle>
+<navMap>
+<navPoint id="navpoint-1" playOrder="1"><navLabel><text>Cover</text></navLabel><content src="mobydickorthewhale_cov.html"/></navPoint>
+<navPoint id="navpoint-2" playOrder="2"><navLabel><text>About the Author</text></navLabel><content src="mobydickorthewhale_fm01.html#fm01"/></navPoint>
+<navPoint id="navpoint-3" playOrder="3"><navLabel><text>Title Page</text></navLabel><content src="mobydickorthewhale_tit01.html#tit01"/></navPoint>
+<navPoint id="navpoint-4" playOrder="4"><navLabel><text>Copyright</text></navLabel><content src="mobydickorthewhale_cop01.html#cop01"/></navPoint>
+<navPoint id="navpoint-5" playOrder="5"><navLabel><text>Contents</text></navLabel><content src="mobydickorthewhale_con01.html#con01"/></navPoint>
+<navPoint id="navpoint-6" playOrder="6"><navLabel><text>Foreword by Nathaniel Philbrick</text></navLabel><content src="mobydickorthewhale_for01.html#for01"/></navPoint>
+<navPoint id="navpoint-7" playOrder="7"><navLabel><text>Introduction by Andrew Delbanco</text></navLabel><content src="mobydickorthewhale_int01.html#int01"/></navPoint>
+<navPoint id="navpoint-8" playOrder="8"><navLabel><text>Suggestions for Further Reading</text></navLabel><content src="mobydickorthewhale_sug01.html#sug01"/></navPoint>
+<navPoint id="navpoint-9" playOrder="9"><navLabel><text>A Note on the Text</text></navLabel><content src="mobydickorthewhale_anot01.html#anot01"/></navPoint>
+<navPoint id="navpoint-10" playOrder="10"><navLabel><text>Dedication</text></navLabel><content src="mobydickorthewhale_ded01.html#ded01"/></navPoint>
+<navPoint id="navpoint-11" playOrder="11"><navLabel><text>ETYMOLOGY</text></navLabel><content src="mobydickorthewhale_ety01.html#ety01"/></navPoint>
+<navPoint id="navpoint-12" playOrder="12"><navLabel><text>EXTRACTS</text></navLabel><content src="mobydickorthewhale_ext01.html#ext01"/></navPoint>
+<navPoint id="navpoint-13" playOrder="13"><navLabel><text>CHAPTER 1 Loomings</text></navLabel><content src="mobydickorthewhale_ch01.html#ch01"/></navPoint>
+<navPoint id="navpoint-14" playOrder="14"><navLabel><text>CHAPTER 2 The Carpet Bag</text></navLabel><content src="mobydickorthewhale_ch02.html#ch02"/></navPoint>
+<navPoint id="navpoint-15" playOrder="15"><navLabel><text>CHAPTER 3 The Spouter-Inn</text></navLabel><content src="mobydickorthewhale_ch03.html#ch03"/></navPoint>
+<navPoint id="navpoint-16" playOrder="16"><navLabel><text>CHAPTER 4 The Counterpane</text></navLabel><content src="mobydickorthewhale_ch04.html#ch04"/></navPoint>
+<navPoint id="navpoint-17" playOrder="17"><navLabel><text>CHAPTER 5 Breakfast</text></navLabel><content src="mobydickorthewhale_ch05.html#ch05"/></navPoint>
+<navPoint id="navpoint-18" playOrder="18"><navLabel><text>CHAPTER 6 The Street</text></navLabel><content src="mobydickorthewhale_ch06.html#ch06"/></navPoint>
+<navPoint id="navpoint-19" playOrder="19"><navLabel><text>CHAPTER 7 The Chapel</text></navLabel><content src="mobydickorthewhale_ch07.html#ch07"/></navPoint>
+<navPoint id="navpoint-20" playOrder="20"><navLabel><text>CHAPTER 8 The Pulpit</text></navLabel><content src="mobydickorthewhale_ch08.html#ch08"/></navPoint>
+<navPoint id="navpoint-21" playOrder="21"><navLabel><text>CHAPTER 9 The Sermon</text></navLabel><content src="mobydickorthewhale_ch09.html#ch09"/></navPoint>
+<navPoint id="navpoint-22" playOrder="22"><navLabel><text>CHAPTER 10 A Bosom Friend</text></navLabel><content src="mobydickorthewhale_ch10.html#ch10"/></navPoint>
+<navPoint id="navpoint-23" playOrder="23"><navLabel><text>CHAPTER 11 Nightgown</text></navLabel><content src="mobydickorthewhale_ch11.html#ch11"/></navPoint>
+<navPoint id="navpoint-24" playOrder="24"><navLabel><text>CHAPTER 12 Biographical</text></navLabel><content src="mobydickorthewhale_ch12.html#ch12"/></navPoint>
+<navPoint id="navpoint-25" playOrder="25"><navLabel><text>CHAPTER 13 Wheelbarrow</text></navLabel><content src="mobydickorthewhale_ch13.html#ch13"/></navPoint>
+<navPoint id="navpoint-26" playOrder="26"><navLabel><text>CHAPTER 14 Nantucket</text></navLabel><content src="mobydickorthewhale_ch14.html#ch14"/></navPoint>
+<navPoint id="navpoint-27" playOrder="27"><navLabel><text>CHAPTER 15 Chowder</text></navLabel><content src="mobydickorthewhale_ch15.html#ch15"/></navPoint>
+<navPoint id="navpoint-28" playOrder="28"><navLabel><text>CHAPTER 16 The Ship</text></navLabel><content src="mobydickorthewhale_ch16.html#ch16"/></navPoint>
+<navPoint id="navpoint-29" playOrder="29"><navLabel><text>CHAPTER 17 The Ramadan</text></navLabel><content src="mobydickorthewhale_ch17.html#ch17"/></navPoint>
+<navPoint id="navpoint-30" playOrder="30"><navLabel><text>CHAPTER 18 His Mark</text></navLabel><content src="mobydickorthewhale_ch18.html#ch18"/></navPoint>
+<navPoint id="navpoint-31" playOrder="31"><navLabel><text>CHAPTER 19 The Prophet</text></navLabel><content src="mobydickorthewhale_ch19.html#ch19"/></navPoint>
+<navPoint id="navpoint-32" playOrder="32"><navLabel><text>CHAPTER 20 All Astir</text></navLabel><content src="mobydickorthewhale_ch20.html#ch20"/></navPoint>
+<navPoint id="navpoint-33" playOrder="33"><navLabel><text>CHAPTER 21 Going Aboard</text></navLabel><content src="mobydickorthewhale_ch21.html#ch21"/></navPoint>
+<navPoint id="navpoint-34" playOrder="34"><navLabel><text>CHAPTER 22 Merry Christmas</text></navLabel><content src="mobydickorthewhale_ch22.html#ch22"/></navPoint>
+<navPoint id="navpoint-35" playOrder="35"><navLabel><text>CHAPTER 23 The Lee Shore</text></navLabel><content src="mobydickorthewhale_ch23.html#ch23"/></navPoint>
+<navPoint id="navpoint-36" playOrder="36"><navLabel><text>CHAPTER 24 The Advocate</text></navLabel><content src="mobydickorthewhale_ch24.html#ch24"/></navPoint>
+<navPoint id="navpoint-37" playOrder="37"><navLabel><text>CHAPTER 25 Postscript</text></navLabel><content src="mobydickorthewhale_ch25.html#ch25"/></navPoint>
+<navPoint id="navpoint-38" playOrder="38"><navLabel><text>CHAPTER 26 Knights and Squires</text></navLabel><content src="mobydickorthewhale_ch26.html#ch26"/></navPoint>
+<navPoint id="navpoint-39" playOrder="39"><navLabel><text>CHAPTER 27 Knights and Squires</text></navLabel><content src="mobydickorthewhale_ch27.html#ch27"/></navPoint>
+<navPoint id="navpoint-40" playOrder="40"><navLabel><text>CHAPTER 28 Ahab</text></navLabel><content src="mobydickorthewhale_ch28.html#ch28"/></navPoint>
+<navPoint id="navpoint-41" playOrder="41"><navLabel><text>CHAPTER 29 Enter Ahab; to him, Stubb</text></navLabel><content src="mobydickorthewhale_ch29.html#ch29"/></navPoint>
+<navPoint id="navpoint-42" playOrder="42"><navLabel><text>CHAPTER 30 The Pipe</text></navLabel><content src="mobydickorthewhale_ch30.html#ch30"/></navPoint>
+<navPoint id="navpoint-43" playOrder="43"><navLabel><text>CHAPTER 31 Queen Mab</text></navLabel><content src="mobydickorthewhale_ch31.html#ch31"/></navPoint>
+<navPoint id="navpoint-44" playOrder="44"><navLabel><text>CHAPTER 32 Cetology</text></navLabel><content src="mobydickorthewhale_ch32.html#ch32"/></navPoint>
+<navPoint id="navpoint-45" playOrder="45"><navLabel><text>CHAPTER 33 The Specksynder</text></navLabel><content src="mobydickorthewhale_ch33.html#ch33"/></navPoint>
+<navPoint id="navpoint-46" playOrder="46"><navLabel><text>CHAPTER 34 The Cabin Table</text></navLabel><content src="mobydickorthewhale_ch34.html#ch34"/></navPoint>
+<navPoint id="navpoint-47" playOrder="47"><navLabel><text>CHAPTER 35 The Mast-Head</text></navLabel><content src="mobydickorthewhale_ch35.html#ch35"/></navPoint>
+<navPoint id="navpoint-48" playOrder="48"><navLabel><text>CHAPTER 36 The Quarter-Deck &#8226; Ahab and all</text></navLabel><content src="mobydickorthewhale_ch36.html#ch36"/></navPoint>
+<navPoint id="navpoint-49" playOrder="49"><navLabel><text>CHAPTER 37 Sunset</text></navLabel><content src="mobydickorthewhale_ch37.html#ch37"/></navPoint>
+<navPoint id="navpoint-50" playOrder="50"><navLabel><text>CHAPTER 38 Dusk</text></navLabel><content src="mobydickorthewhale_ch38.html#ch38"/></navPoint>
+<navPoint id="navpoint-51" playOrder="51"><navLabel><text>CHAPTER 39 First Night-Watch</text></navLabel><content src="mobydickorthewhale_ch39.html#ch39"/></navPoint>
+<navPoint id="navpoint-52" playOrder="52"><navLabel><text>CHAPTER 40 Forecastle&#8212;Midnight</text></navLabel><content src="mobydickorthewhale_ch40.html#ch40"/></navPoint>
+<navPoint id="navpoint-53" playOrder="53"><navLabel><text>CHAPTER 41 Moby Dick</text></navLabel><content src="mobydickorthewhale_ch41.html#ch41"/></navPoint>
+<navPoint id="navpoint-54" playOrder="54"><navLabel><text>CHAPTER 42 The Whiteness of the Whale</text></navLabel><content src="mobydickorthewhale_ch42.html#ch42"/></navPoint>
+<navPoint id="navpoint-55" playOrder="55"><navLabel><text>CHAPTER 43 Hark!</text></navLabel><content src="mobydickorthewhale_ch43.html#ch43"/></navPoint>
+<navPoint id="navpoint-56" playOrder="56"><navLabel><text>CHAPTER 44 The Chart</text></navLabel><content src="mobydickorthewhale_ch44.html#ch44"/></navPoint>
+<navPoint id="navpoint-57" playOrder="57"><navLabel><text>CHAPTER 45 The Affidavit</text></navLabel><content src="mobydickorthewhale_ch45.html#ch45"/></navPoint>
+<navPoint id="navpoint-58" playOrder="58"><navLabel><text>CHAPTER 46 Surmises</text></navLabel><content src="mobydickorthewhale_ch46.html#ch46"/></navPoint>
+<navPoint id="navpoint-59" playOrder="59"><navLabel><text>CHAPTER 47 The Mat-Maker</text></navLabel><content src="mobydickorthewhale_ch47.html#ch47"/></navPoint>
+<navPoint id="navpoint-60" playOrder="60"><navLabel><text>CHAPTER 48 The First Lowering</text></navLabel><content src="mobydickorthewhale_ch48.html#ch48"/></navPoint>
+<navPoint id="navpoint-61" playOrder="61"><navLabel><text>CHAPTER 49 The Hyena</text></navLabel><content src="mobydickorthewhale_ch49.html#ch49"/></navPoint>
+<navPoint id="navpoint-62" playOrder="62"><navLabel><text>CHAPTER 50 Ahab&#8217;s Boat and Crew&#8212;Fedallah</text></navLabel><content src="mobydickorthewhale_ch50.html#ch50"/></navPoint>
+<navPoint id="navpoint-63" playOrder="63"><navLabel><text>CHAPTER 51 The Spirit-Spout</text></navLabel><content src="mobydickorthewhale_ch51.html#ch51"/></navPoint>
+<navPoint id="navpoint-64" playOrder="64"><navLabel><text>CHAPTER 52 The Pequod meets the Albatross</text></navLabel><content src="mobydickorthewhale_ch52.html#ch52"/></navPoint>
+<navPoint id="navpoint-65" playOrder="65"><navLabel><text>CHAPTER 53 The Gam</text></navLabel><content src="mobydickorthewhale_ch53.html#ch53"/></navPoint>
+<navPoint id="navpoint-66" playOrder="66"><navLabel><text>CHAPTER 54 The Town Ho&#8217;s Story</text></navLabel><content src="mobydickorthewhale_ch54.html#ch54"/></navPoint>
+<navPoint id="navpoint-67" playOrder="67"><navLabel><text>CHAPTER 55 Monstrous Pictures of Whales</text></navLabel><content src="mobydickorthewhale_ch55.html#ch55"/></navPoint>
+<navPoint id="navpoint-68" playOrder="68"><navLabel><text>CHAPTER 56 Less Erroneous Pictures of Whales</text></navLabel><content src="mobydickorthewhale_ch56.html#ch56"/></navPoint>
+<navPoint id="navpoint-69" playOrder="69"><navLabel><text>CHAPTER 57 Of Whales in Paint, in Teeth, &amp;c.</text></navLabel><content src="mobydickorthewhale_ch57.html#ch57"/></navPoint>
+<navPoint id="navpoint-70" playOrder="70"><navLabel><text>CHAPTER 58 Brit</text></navLabel><content src="mobydickorthewhale_ch58.html#ch58"/></navPoint>
+<navPoint id="navpoint-71" playOrder="71"><navLabel><text>CHAPTER 59 Squid</text></navLabel><content src="mobydickorthewhale_ch59.html#ch59"/></navPoint>
+<navPoint id="navpoint-72" playOrder="72"><navLabel><text>CHAPTER 60 The Line</text></navLabel><content src="mobydickorthewhale_ch60.html#ch60"/></navPoint>
+<navPoint id="navpoint-73" playOrder="73"><navLabel><text>CHAPTER 61 Stubb kills a Whale</text></navLabel><content src="mobydickorthewhale_ch61.html#ch61"/></navPoint>
+<navPoint id="navpoint-74" playOrder="74"><navLabel><text>CHAPTER 62 The Dart</text></navLabel><content src="mobydickorthewhale_ch62.html#ch62"/></navPoint>
+<navPoint id="navpoint-75" playOrder="75"><navLabel><text>CHAPTER 63 The Crotch</text></navLabel><content src="mobydickorthewhale_ch63.html#ch63"/></navPoint>
+<navPoint id="navpoint-76" playOrder="76"><navLabel><text>CHAPTER 64 Stubb&#8217;s Supper</text></navLabel><content src="mobydickorthewhale_ch64.html#ch64"/></navPoint>
+<navPoint id="navpoint-77" playOrder="77"><navLabel><text>CHAPTER 65 The Whale as a Dish</text></navLabel><content src="mobydickorthewhale_ch65.html#ch65"/></navPoint>
+<navPoint id="navpoint-78" playOrder="78"><navLabel><text>CHAPTER 66 The Shark Massacre</text></navLabel><content src="mobydickorthewhale_ch66.html#ch66"/></navPoint>
+<navPoint id="navpoint-79" playOrder="79"><navLabel><text>CHAPTER 67 Cutting In</text></navLabel><content src="mobydickorthewhale_ch67.html#ch67"/></navPoint>
+<navPoint id="navpoint-80" playOrder="80"><navLabel><text>CHAPTER 68 The Blanket</text></navLabel><content src="mobydickorthewhale_ch68.html#ch68"/></navPoint>
+<navPoint id="navpoint-81" playOrder="81"><navLabel><text>CHAPTER 69 The Funeral</text></navLabel><content src="mobydickorthewhale_ch69.html#ch69"/></navPoint>
+<navPoint id="navpoint-82" playOrder="82"><navLabel><text>CHAPTER 70 The Sphinx</text></navLabel><content src="mobydickorthewhale_ch70.html#ch70"/></navPoint>
+<navPoint id="navpoint-83" playOrder="83"><navLabel><text>CHAPTER 71 The Pequod Meets the Jeroboam &#8226; Her Story</text></navLabel><content src="mobydickorthewhale_ch71.html#ch71"/></navPoint>
+<navPoint id="navpoint-84" playOrder="84"><navLabel><text>CHAPTER 72 The Monkey-rope</text></navLabel><content src="mobydickorthewhale_ch72.html#ch72"/></navPoint>
+<navPoint id="navpoint-85" playOrder="85"><navLabel><text>CHAPTER 73 Stubb &amp; Flask kill a Right Whale</text></navLabel><content src="mobydickorthewhale_ch73.html#ch73"/></navPoint>
+<navPoint id="navpoint-86" playOrder="86"><navLabel><text>CHAPTER 74 The Sperm Whale&#8217;s Heard</text></navLabel><content src="mobydickorthewhale_ch74.html#ch74"/></navPoint>
+<navPoint id="navpoint-87" playOrder="87"><navLabel><text>CHAPTER 75 The Right Whale&#8217;s Head</text></navLabel><content src="mobydickorthewhale_ch75.html#ch75"/></navPoint>
+<navPoint id="navpoint-88" playOrder="88"><navLabel><text>CHAPTER 76 The Battering-Ram</text></navLabel><content src="mobydickorthewhale_ch76.html#ch76"/></navPoint>
+<navPoint id="navpoint-89" playOrder="89"><navLabel><text>CHAPTER 77 The Great Heidelburgh Tun</text></navLabel><content src="mobydickorthewhale_ch77.html#ch77"/></navPoint>
+<navPoint id="navpoint-90" playOrder="90"><navLabel><text>CHAPTER 78 Cistern and Buckets</text></navLabel><content src="mobydickorthewhale_ch78.html#ch78"/></navPoint>
+<navPoint id="navpoint-91" playOrder="91"><navLabel><text>CHAPTER 79 The Prairie</text></navLabel><content src="mobydickorthewhale_ch79.html#ch79"/></navPoint>
+<navPoint id="navpoint-92" playOrder="92"><navLabel><text>CHAPTER 80 The Nut</text></navLabel><content src="mobydickorthewhale_ch80.html#ch80"/></navPoint>
+<navPoint id="navpoint-93" playOrder="93"><navLabel><text>CHAPTER 81 The Pequod meets the Virgin</text></navLabel><content src="mobydickorthewhale_ch81.html#ch81"/></navPoint>
+<navPoint id="navpoint-94" playOrder="94"><navLabel><text>CHAPTER 82 The Honor and Glory of Whaling</text></navLabel><content src="mobydickorthewhale_ch82.html#ch82"/></navPoint>
+<navPoint id="navpoint-95" playOrder="95"><navLabel><text>CHAPTER 83 Jonah Historically Regarded</text></navLabel><content src="mobydickorthewhale_ch83.html#ch83"/></navPoint>
+<navPoint id="navpoint-96" playOrder="96"><navLabel><text>CHAPTER 84 Pitchpoling</text></navLabel><content src="mobydickorthewhale_ch84.html#ch84"/></navPoint>
+<navPoint id="navpoint-97" playOrder="97"><navLabel><text>CHAPTER 85 The Fountain</text></navLabel><content src="mobydickorthewhale_ch85.html#ch85"/></navPoint>
+<navPoint id="navpoint-98" playOrder="98"><navLabel><text>CHAPTER 86 The Tail</text></navLabel><content src="mobydickorthewhale_ch86.html#ch86"/></navPoint>
+<navPoint id="navpoint-99" playOrder="99"><navLabel><text>CHAPTER 87 The Grand Armada</text></navLabel><content src="mobydickorthewhale_ch87.html#ch87"/></navPoint>
+<navPoint id="navpoint-100" playOrder="100"><navLabel><text>CHAPTER 88 Schools &amp; Schoolmasters</text></navLabel><content src="mobydickorthewhale_ch88.html#ch88"/></navPoint>
+<navPoint id="navpoint-101" playOrder="101"><navLabel><text>CHAPTER 89 Fast Fish and Loose Fish</text></navLabel><content src="mobydickorthewhale_ch89.html#ch89"/></navPoint>
+<navPoint id="navpoint-102" playOrder="102"><navLabel><text>CHAPTER 90 Heads or Tails</text></navLabel><content src="mobydickorthewhale_ch90.html#ch90"/></navPoint>
+<navPoint id="navpoint-103" playOrder="103"><navLabel><text>CHAPTER 91 The Pequod meets the Rose Bud</text></navLabel><content src="mobydickorthewhale_ch91.html#ch91"/></navPoint>
+<navPoint id="navpoint-104" playOrder="104"><navLabel><text>CHAPTER 92 Ambergis</text></navLabel><content src="mobydickorthewhale_ch92.html#ch92"/></navPoint>
+<navPoint id="navpoint-105" playOrder="105"><navLabel><text>CHAPTER 93 The Castaway</text></navLabel><content src="mobydickorthewhale_ch93.html#ch93"/></navPoint>
+<navPoint id="navpoint-106" playOrder="106"><navLabel><text>CHAPTER 94 A Squeeze of the Hand</text></navLabel><content src="mobydickorthewhale_ch94.html#ch94"/></navPoint>
+<navPoint id="navpoint-107" playOrder="107"><navLabel><text>CHAPTER 95 The Cassock</text></navLabel><content src="mobydickorthewhale_ch95.html#ch95"/></navPoint>
+<navPoint id="navpoint-108" playOrder="108"><navLabel><text>CHAPTER 96 The Try-Works</text></navLabel><content src="mobydickorthewhale_ch96.html#ch96"/></navPoint>
+<navPoint id="navpoint-109" playOrder="109"><navLabel><text>CHAPTER 97 The Lamp</text></navLabel><content src="mobydickorthewhale_ch97.html#ch97"/></navPoint>
+<navPoint id="navpoint-110" playOrder="110"><navLabel><text>CHAPTER 98 Stowing Down &amp; Clearing Up</text></navLabel><content src="mobydickorthewhale_ch98.html#ch98"/></navPoint>
+<navPoint id="navpoint-111" playOrder="111"><navLabel><text>CHAPTER 99 The Doubloon</text></navLabel><content src="mobydickorthewhale_ch99.html#ch99"/></navPoint>
+<navPoint id="navpoint-112" playOrder="112"><navLabel><text>CHAPTER 100 The Pequod meets the Samuel Enderby of London</text></navLabel><content src="mobydickorthewhale_ch100.html#ch100"/></navPoint>
+<navPoint id="navpoint-113" playOrder="113"><navLabel><text>CHAPTER 101 The Decanter</text></navLabel><content src="mobydickorthewhale_ch101.html#ch101"/></navPoint>
+<navPoint id="navpoint-114" playOrder="114"><navLabel><text>CHAPTER 102 A Bower in the Arsacides</text></navLabel><content src="mobydickorthewhale_ch102.html#ch102"/></navPoint>
+<navPoint id="navpoint-115" playOrder="115"><navLabel><text>CHAPTER 103 Measurement of the Whale&#8217;s Skeleton</text></navLabel><content src="mobydickorthewhale_ch103.html#ch103"/></navPoint>
+<navPoint id="navpoint-116" playOrder="116"><navLabel><text>CHAPTER 104 The Fossil Whale</text></navLabel><content src="mobydickorthewhale_ch104.html#ch104"/></navPoint>
+<navPoint id="navpoint-117" playOrder="117"><navLabel><text>CHAPTER 105 Does the Whale Diminish?</text></navLabel><content src="mobydickorthewhale_ch105.html#ch105"/></navPoint>
+<navPoint id="navpoint-118" playOrder="118"><navLabel><text>CHAPTER 106 Ahab&#8217;s Leg</text></navLabel><content src="mobydickorthewhale_ch106.html#ch106"/></navPoint>
+<navPoint id="navpoint-119" playOrder="119"><navLabel><text>CHAPTER 107 The Carpenter</text></navLabel><content src="mobydickorthewhale_ch107.html#ch107"/></navPoint>
+<navPoint id="navpoint-120" playOrder="120"><navLabel><text>CHAPTER 108 The Deck &#8226; Ahab and the Carpenter</text></navLabel><content src="mobydickorthewhale_ch108.html#ch108"/></navPoint>
+<navPoint id="navpoint-121" playOrder="121"><navLabel><text>CHAPTER 109 The Cabin &#8226; Ahab and Starbuck</text></navLabel><content src="mobydickorthewhale_ch109.html#ch109"/></navPoint>
+<navPoint id="navpoint-122" playOrder="122"><navLabel><text>CHAPTER 110 Queequeg in his Coffin</text></navLabel><content src="mobydickorthewhale_ch110.html#ch110"/></navPoint>
+<navPoint id="navpoint-123" playOrder="123"><navLabel><text>CHAPTER 111 The Pacific</text></navLabel><content src="mobydickorthewhale_ch111.html#ch111"/></navPoint>
+<navPoint id="navpoint-124" playOrder="124"><navLabel><text>CHAPTER 112 The Blacksmith</text></navLabel><content src="mobydickorthewhale_ch112.html#ch112"/></navPoint>
+<navPoint id="navpoint-125" playOrder="125"><navLabel><text>CHAPTER 113 The Forge</text></navLabel><content src="mobydickorthewhale_ch113.html#ch113"/></navPoint>
+<navPoint id="navpoint-126" playOrder="126"><navLabel><text>CHAPTER 114 The Gilder</text></navLabel><content src="mobydickorthewhale_ch114.html#ch114"/></navPoint>
+<navPoint id="navpoint-127" playOrder="127"><navLabel><text>CHAPTER 115 The Pequod meets the Bachelor</text></navLabel><content src="mobydickorthewhale_ch115.html#ch115"/></navPoint>
+<navPoint id="navpoint-128" playOrder="128"><navLabel><text>CHAPTER 116 The Dying Whale</text></navLabel><content src="mobydickorthewhale_ch116.html#ch116"/></navPoint>
+<navPoint id="navpoint-129" playOrder="129"><navLabel><text>CHAPTER 117 The Whale-Watch</text></navLabel><content src="mobydickorthewhale_ch117.html#ch117"/></navPoint>
+<navPoint id="navpoint-130" playOrder="130"><navLabel><text>CHAPTER 118 The Quadrant</text></navLabel><content src="mobydickorthewhale_ch118.html#ch118"/></navPoint>
+<navPoint id="navpoint-131" playOrder="131"><navLabel><text>CHAPTER 119 The Candles</text></navLabel><content src="mobydickorthewhale_ch119.html#ch119"/></navPoint>
+<navPoint id="navpoint-132" playOrder="132"><navLabel><text>CHAPTER 120 The Deck</text></navLabel><content src="mobydickorthewhale_ch120.html#ch120"/></navPoint>
+<navPoint id="navpoint-133" playOrder="133"><navLabel><text>CHAPTER 121 Midnight, on the Forecastle</text></navLabel><content src="mobydickorthewhale_ch121.html#ch121"/></navPoint>
+<navPoint id="navpoint-134" playOrder="134"><navLabel><text>CHAPTER 122 Midnight, Aloft</text></navLabel><content src="mobydickorthewhale_ch122.html#ch122"/></navPoint>
+<navPoint id="navpoint-135" playOrder="135"><navLabel><text>CHAPTER 123 The Musket</text></navLabel><content src="mobydickorthewhale_ch123.html#ch123"/></navPoint>
+<navPoint id="navpoint-136" playOrder="136"><navLabel><text>CHAPTER 124 The Needle</text></navLabel><content src="mobydickorthewhale_ch124.html#ch124"/></navPoint>
+<navPoint id="navpoint-137" playOrder="137"><navLabel><text>CHAPTER 125 The Log and Line</text></navLabel><content src="mobydickorthewhale_ch125.html#ch125"/></navPoint>
+<navPoint id="navpoint-138" playOrder="138"><navLabel><text>CHAPTER 126 The Life-Buoy</text></navLabel><content src="mobydickorthewhale_ch126.html#ch126"/></navPoint>
+<navPoint id="navpoint-139" playOrder="139"><navLabel><text>CHAPTER 127 Ahab and the Carpenter</text></navLabel><content src="mobydickorthewhale_ch127.html#ch127"/></navPoint>
+<navPoint id="navpoint-140" playOrder="140"><navLabel><text>CHAPTER 128 The Pequod meets the Rachel</text></navLabel><content src="mobydickorthewhale_ch128.html#ch128"/></navPoint>
+<navPoint id="navpoint-141" playOrder="141"><navLabel><text>CHAPTER 129 The Cabin &#8226; Ahab and Pip</text></navLabel><content src="mobydickorthewhale_ch129.html#ch129"/></navPoint>
+<navPoint id="navpoint-142" playOrder="142"><navLabel><text>CHAPTER 130 The Hat</text></navLabel><content src="mobydickorthewhale_ch130.html#ch130"/></navPoint>
+<navPoint id="navpoint-143" playOrder="143"><navLabel><text>CHAPTER 131 The Pequod meets the Delight</text></navLabel><content src="mobydickorthewhale_ch131.html#ch131"/></navPoint>
+<navPoint id="navpoint-144" playOrder="144"><navLabel><text>CHAPTER 132 The Symphony</text></navLabel><content src="mobydickorthewhale_ch132.html#ch132"/></navPoint>
+<navPoint id="navpoint-145" playOrder="145"><navLabel><text>CHAPTER 133 The Chase &#8226; First Day</text></navLabel><content src="mobydickorthewhale_ch133.html#ch133"/></navPoint>
+<navPoint id="navpoint-146" playOrder="146"><navLabel><text>CHAPTER 134 The Chase &#8226; Second Day</text></navLabel><content src="mobydickorthewhale_ch134.html#ch134"/></navPoint>
+<navPoint id="navpoint-147" playOrder="147"><navLabel><text>CHAPTER 135 The Chase &#8226; Third Day</text></navLabel><content src="mobydickorthewhale_ch135.html#ch135"/></navPoint>
+<navPoint id="navpoint-148" playOrder="148"><navLabel><text>EPILOGUE</text></navLabel><content src="mobydickorthewhale_bm01.html#bm01"/></navPoint>
+<navPoint id="navpoint-149" playOrder="149"><navLabel><text>List of Textual Emendations</text></navLabel><content src="mobydickorthewhale_bm02.html#bm02"/></navPoint>
+<navPoint id="navpoint-150" playOrder="150"><navLabel><text>Explanatory Notes</text></navLabel><content src="mobydickorthewhale_bm03.html#bm03"/></navPoint>
+<navPoint id="navpoint-151" playOrder="151"><navLabel><text>Glossary of Nautical Terms</text></navLabel><content src="mobydickorthewhale_bm04.html#bm04"/></navPoint>
+<navPoint id="navpoint-152" playOrder="152"><navLabel><text>Maps and Illustrations</text></navLabel><content src="mobydickorthewhale_bm05.html#bm05"/></navPoint>
+<navPoint id="navpoint-153" playOrder="153"><navLabel><text>How to Navigate Guide</text></navLabel><content src="mobydickorthewhale_khn.html#khn"/></navPoint>
+<navPoint id="navpoint-154" playOrder="154"><navLabel><text>Chronology</text></navLabel><content src="mobydickorthewhale_bm06.html#bm06"/></navPoint>
+<navPoint id="navpoint-155" playOrder="155"><navLabel><text>Filmography of Herman Melville&#8217;s Moby-Dick (1851)</text></navLabel><content src="mobydickorthewhale_bm07.html#bm07"/></navPoint>
+<navPoint id="navpoint-156" playOrder="156"><navLabel><text>Nineteenth-Century Reviews</text></navLabel><content src="mobydickorthewhale_bm08.html#bm08"/></navPoint>
+<navPoint id="navpoint-157" playOrder="157"><navLabel><text>Suggested Further Reading</text></navLabel><content src="mobydickorthewhale_bm09.html#bm09"/></navPoint>
+<navPoint id="navpoint-158" playOrder="158"><navLabel><text>Moby-Dick in Popular Culture</text></navLabel><content src="mobydickorthewhale_bm10.html#bm10"/></navPoint>
+<navPoint id="navpoint-159" playOrder="159"><navLabel><text>Melville&#8217;s Whaling Years</text></navLabel><content src="mobydickorthewhale_bm11.html#bm11"/></navPoint>
+<navPoint id="navpoint-160" playOrder="160"><navLabel><text>Cannibal Talk in Moby-Dick</text></navLabel><content src="mobydickorthewhale_bm12.html#bm12"/></navPoint>
+<navPoint id="navpoint-161" playOrder="161"><navLabel><text>Sermons in Moby-Dick</text></navLabel><content src="mobydickorthewhale_bm13.html#bm13"/></navPoint>
+<navPoint id="navpoint-162" playOrder="162"><navLabel><text>Enriched eBook Notes</text></navLabel><content src="mobydickorthewhale_bm14.html#bm14"/></navPoint>
+<navPoint id="navpoint-163" playOrder="163"><navLabel><text>Illustrations for Moby-Dick</text></navLabel><content src="mobydickorthewhale_bm15.html#bm15"/></navPoint>
+<navPoint id="navpoint-164" playOrder="164"><navLabel><text></text></navLabel><content src="mobydickorthewhale_bm16.html#bm16"/></navPoint>
+</navMap>
+</ncx>
